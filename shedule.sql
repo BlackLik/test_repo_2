@@ -231,4 +231,3 @@ ALTER TABLE ONLY public.days
 --
 -- PostgreSQL database dump complete
 --
-

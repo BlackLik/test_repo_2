@@ -922,4 +922,3 @@ ALTER TABLE ONLY public.sat_teacher
 --
 -- PostgreSQL database dump complete
 --
-
